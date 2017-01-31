@@ -34,3 +34,9 @@ p, li{
   line-height: 2;
   letter-spacing: 1px;
 }
+div.item {
+  font-size: 50px;
+}
+.item{
+  font-size: 5px !important;
+}
